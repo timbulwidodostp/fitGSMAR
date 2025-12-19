@@ -13,5 +13,4 @@ summary(fitGSMAR)
 # Olah Data Semarang
 # WhatsApp : +6285227746673
 # IG : @olahdatasemarang_
-
 # Finished
