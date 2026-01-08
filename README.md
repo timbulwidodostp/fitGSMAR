@@ -1,6 +1,8 @@
 # fitGSMAR
 Gaussian and Student's t mixture autoregression analysis Use fitGSMAR (uGMAR) With (In) R Software
 
+https://www.youtube.com/watch?v=JPnTC6ODbSA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
